@@ -1,0 +1,20 @@
+PODS:
+  - LicensePlist (3.0.5)
+  - lottie-ios (3.2.0)
+
+DEPENDENCIES:
+  - LicensePlist
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - LicensePlist
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  LicensePlist: 11c638fa9dc22ddb5771cdf910242ae1ba2684da
+  lottie-ios: b6b911246246a90a1d25e7388afe6d9ef003d293
+
+PODFILE CHECKSUM: 80559a2c708e6e78876db06a61c7e8ce013a72b6
+
+COCOAPODS: 1.9.3
